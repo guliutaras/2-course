@@ -1,0 +1,13 @@
+﻿Построение начато 30.05.2017 17:12:36.
+     1>Проект "E:\Лабораторные работы\Операционные системы и системное програмирование\2 СЕМЕСТР\Текстовая обработка и создание потоков\LAB4SEM2_Thread'nFun\LAB4SEM2_Thread'nFun\LAB4SEM2_Thread'nFun.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\LAB4SEM2_Thread'nFun.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\LAB4SEM2_Thread'nFun\LAB4SEM2_Thread'nFun\main.cpp"
+         main.cpp
+     1>e:\лабораторные работы\операционные системы и системное програмирование\2 семестр\текстовая обработка и создание потоков\lab4sem2_thread'nfun\lab4sem2_thread'nfun\resource.h : fatal error C1081: e:\Р»Р°Р±РѕСЂР°С‚РѕСЂРЅС‹Рµ СЂР°Р±РѕС‚С‹\РѕРїРµСЂР°С†РёРѕРЅРЅС‹Рµ СЃРёСЃС‚РµРјС‹ Рё СЃРёСЃС‚РµРјРЅРѕРµ РїСЂРѕРіСЂР°РјРёСЂРѕРІР°РЅРёРµ\2 СЃРµРјРµСЃС‚СЂ\С‚РµРєСЃС‚РѕРІР°СЏ РѕР±СЂР°Р±РѕС‚РєР° Рё СЃРѕР·РґР°РЅРёРµ РїРѕС‚РѕРєРѕРІ\lab4sem2_thread'nfun\lab4sem2_thread'nfun\resource.h: слишком длинное имя файла
+     1>Построение проекта "E:\Лабораторные работы\Операционные системы и системное програмирование\2 СЕМЕСТР\Текстовая обработка и создание потоков\LAB4SEM2_Thread'nFun\LAB4SEM2_Thread'nFun\LAB4SEM2_Thread'nFun.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:03.53

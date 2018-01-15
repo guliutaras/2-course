@@ -1,0 +1,27 @@
+﻿Построение начато 22.05.2017 16:09:50.
+     1>Проект "E:\Лабораторные работы\Операционные системы и системное програмирование\2 СЕМЕСТР\Динамические библиотеки\Writeminfrom\Writeminfrom\Writeminfrom.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Writeminfrom.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D WRITEMINFROM_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MathFunk.cpp
+         MathFunk.cpp
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Лабораторные работы\Операционные системы и системное програмирование\2 СЕМЕСТР\Динамические библиотеки\Writeminfrom\Debug\Writeminfrom.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Writeminfrom.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Лабораторные работы\Операционные системы и системное програмирование\2 СЕМЕСТР\Динамические библиотеки\Writeminfrom\Debug\Writeminfrom.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Лабораторные работы\Операционные системы и системное програмирование\2 СЕМЕСТР\Динамические библиотеки\Writeminfrom\Debug\Writeminfrom.lib" /MACHINE:X86 /DLL Debug\Writeminfrom.dll.embed.manifest.res
+         Debug\MathFunk.obj
+            Создается библиотека E:\Лабораторные работы\Операционные системы и системное програмирование\2 СЕМЕСТР\Динамические библиотеки\Writeminfrom\Debug\Writeminfrom.lib и объект E:\Лабораторные работы\Операционные системы и системное програмирование\2 СЕМЕСТР\Динамические библиотеки\Writeminfrom\Debug\Writeminfrom.exp
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Writeminfrom.dll.embed.manifest" /manifest Debug\Writeminfrom.dll.intermediate.manifest
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         Writeminfrom.vcxproj -> E:\Лабораторные работы\Операционные системы и системное програмирование\2 СЕМЕСТР\Динамические библиотеки\Writeminfrom\Debug\Writeminfrom.dll
+       FinalizeBuildStatus:
+         Файл "Debug\Writeminfrom.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Writeminfrom.lastbuildstate".
+     1>Построение проекта "E:\Лабораторные работы\Операционные системы и системное програмирование\2 СЕМЕСТР\Динамические библиотеки\Writeminfrom\Writeminfrom\Writeminfrom.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.66

@@ -1,0 +1,26 @@
+﻿Построение начато 02.05.2017 21:40:28.
+     1>Проект "E:\Лабораторные работы\Числаки\LAB4SEM2_aproxInteg\LAB4SEM2_aproxInteg\LAB4SEM2_aproxInteg\LAB4SEM2_aproxInteg.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\LAB4SEM2_aproxInteg.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Simpson_form.cpp
+         Simpson_form.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Лабораторные работы\Числаки\LAB4SEM2_aproxInteg\LAB4SEM2_aproxInteg\Debug\LAB4SEM2_aproxInteg.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\LAB4SEM2_aproxInteg.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Лабораторные работы\Числаки\LAB4SEM2_aproxInteg\LAB4SEM2_aproxInteg\Debug\LAB4SEM2_aproxInteg.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Лабораторные работы\Числаки\LAB4SEM2_aproxInteg\LAB4SEM2_aproxInteg\Debug\LAB4SEM2_aproxInteg.lib" /MACHINE:X86 Debug\funk.obj
+         Debug\Gause_form.obj
+         Debug\main.obj
+         Debug\Rectangle_form.obj
+         Debug\Simpson_form.obj
+         Debug\Trap_form.obj
+         LINK : не найден или не выполнена сборка E:\Лабораторные работы\Числаки\LAB4SEM2_aproxInteg\LAB4SEM2_aproxInteg\Debug\LAB4SEM2_aproxInteg.exe при последней инкрементной компоновке; выполняется полная компоновка
+         LAB4SEM2_aproxInteg.vcxproj -> E:\Лабораторные работы\Числаки\LAB4SEM2_aproxInteg\LAB4SEM2_aproxInteg\Debug\LAB4SEM2_aproxInteg.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Лабораторные работы\Числаки\LAB4SEM2_aproxInteg\LAB4SEM2_aproxInteg\Debug\LAB4SEM2_aproxInteg.exe;#1" /manifest Debug\LAB4SEM2_aproxInteg.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\LAB4SEM2_aproxInteg.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\LAB4SEM2_aproxInteg.lastbuildstate".
+     1>Построение проекта "E:\Лабораторные работы\Числаки\LAB4SEM2_aproxInteg\LAB4SEM2_aproxInteg\LAB4SEM2_aproxInteg\LAB4SEM2_aproxInteg.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.09

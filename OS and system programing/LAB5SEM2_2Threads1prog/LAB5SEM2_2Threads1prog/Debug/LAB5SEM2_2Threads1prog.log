@@ -1,0 +1,22 @@
+﻿Построение начато 06.05.2017 12:44:50.
+     1>Проект "E:\Лабораторные работы\Операционные системы и системное програмирование\2 СЕМЕСТР\LAB5SEM2_2Threads1prog\LAB5SEM2_2Threads1prog\LAB5SEM2_2Threads1prog.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\LAB5SEM2_2Threads1prog.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+       Manifest:
+         Для всех выходных данных обновления не требуется.
+       FinalizeBuildStatus:
+         Файл "Debug\LAB5SEM2_2Threads1prog.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\LAB5SEM2_2Threads1prog.lastbuildstate".
+     1>Построение проекта "E:\Лабораторные работы\Операционные системы и системное програмирование\2 СЕМЕСТР\LAB5SEM2_2Threads1prog\LAB5SEM2_2Threads1prog\LAB5SEM2_2Threads1prog.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.12

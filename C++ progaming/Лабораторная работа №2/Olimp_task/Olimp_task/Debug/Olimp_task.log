@@ -1,0 +1,21 @@
+﻿Построение начато 20.12.2016 16:21:47.
+     1>Проект "E:\Лабораторные работы\Програмирование\Лабораторная работа №2\Olimp_task\Olimp_task\Olimp_task.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Olimp_task.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt First_task.cpp
+         First_task.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Лабораторные работы\Програмирование\Лабораторная работа №2\Olimp_task\Debug\Olimp_task.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Olimp_task.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Лабораторные работы\Програмирование\Лабораторная работа №2\Olimp_task\Debug\Olimp_task.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Лабораторные работы\Програмирование\Лабораторная работа №2\Olimp_task\Debug\Olimp_task.lib" /MACHINE:X86 Debug\First_task.obj
+         LINK : не найден или не выполнена сборка E:\Лабораторные работы\Програмирование\Лабораторная работа №2\Olimp_task\Debug\Olimp_task.exe при последней инкрементной компоновке; выполняется полная компоновка
+         Olimp_task.vcxproj -> E:\Лабораторные работы\Програмирование\Лабораторная работа №2\Olimp_task\Debug\Olimp_task.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Лабораторные работы\Програмирование\Лабораторная работа №2\Olimp_task\Debug\Olimp_task.exe;#1" /manifest Debug\Olimp_task.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\Olimp_task.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Olimp_task.lastbuildstate".
+     1>Построение проекта "E:\Лабораторные работы\Програмирование\Лабораторная работа №2\Olimp_task\Olimp_task\Olimp_task.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.98

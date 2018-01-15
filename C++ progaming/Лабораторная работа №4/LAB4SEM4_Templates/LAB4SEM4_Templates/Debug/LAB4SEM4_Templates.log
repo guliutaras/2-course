@@ -1,0 +1,443 @@
+﻿Построение начато 08.06.2017 12:26:14.
+     1>Проект "E:\Лабораторные работы\Програмирование\Лабораторная работа №4\LAB4SEM4_Templates\LAB4SEM4_Templates\LAB4SEM4_Templates.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\LAB4SEM4_Templates.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt code.cpp
+         code.cpp
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(160): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128): см. объявление "getch"
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(94): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128): см. объявление "getch"
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(162): см. ссылку на создание экземпляров функции шаблон при компиляции "void menu<int>(Queue<T> &)"
+                 with
+                 [
+                     T=int
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(119): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128): см. объявление "getch"
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(94): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128): см. объявление "getch"
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(163): см. ссылку на создание экземпляров функции шаблон при компиляции "void menu<float>(Queue<T> &)"
+                 with
+                 [
+                     T=float
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(119): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128): см. объявление "getch"
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(94): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128): см. объявление "getch"
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(164): см. ссылку на создание экземпляров функции шаблон при компиляции "void menu<string>(Queue<T> &)"
+                 with
+                 [
+                     T=string
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(119): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128): см. объявление "getch"
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(53): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=int
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=int
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(52): при компиляции функции-члена "void list<T>::sort(void)" класса шаблон
+                 with
+                 [
+                     T=int
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mystack.h(7): см. ссылку на создание экземпляров класса шаблон при компиляции "list<T>"
+                 with
+                 [
+                     T=int
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(28): см. ссылку на создание экземпляров класса шаблон при компиляции "stack<T>"
+                 with
+                 [
+                     T=int
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(140): см. ссылку на создание экземпляров класса шаблон при компиляции "Queue<T>"
+                 with
+                 [
+                     T=int
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(54): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=int
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=int
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(53): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=float
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=float
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(52): при компиляции функции-члена "void list<T>::sort(void)" класса шаблон
+                 with
+                 [
+                     T=float
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mystack.h(7): см. ссылку на создание экземпляров класса шаблон при компиляции "list<T>"
+                 with
+                 [
+                     T=float
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(28): см. ссылку на создание экземпляров класса шаблон при компиляции "stack<T>"
+                 with
+                 [
+                     T=float
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(141): см. ссылку на создание экземпляров класса шаблон при компиляции "Queue<T>"
+                 with
+                 [
+                     T=float
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(54): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=float
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=float
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(53): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=string
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=string
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(52): при компиляции функции-члена "void list<T>::sort(void)" класса шаблон
+                 with
+                 [
+                     T=string
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mystack.h(7): см. ссылку на создание экземпляров класса шаблон при компиляции "list<T>"
+                 with
+                 [
+                     T=string
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(28): см. ссылку на создание экземпляров класса шаблон при компиляции "stack<T>"
+                 with
+                 [
+                     T=string
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(142): см. ссылку на создание экземпляров класса шаблон при компиляции "Queue<T>"
+                 with
+                 [
+                     T=string
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(54): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=string
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=string
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(24): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=int
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=int
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(24): при компиляции функции-члена "list<T>::iterator list<T>::iterator::operator +(int)" класса шаблон
+                 with
+                 [
+                     T=int
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(102): см. ссылку на создание экземпляров класса шаблон при компиляции "list<T>::iterator"
+                 with
+                 [
+                     T=int
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(162): см. ссылку на создание экземпляров функции шаблон при компиляции "void menu<int>(Queue<T> &)"
+                 with
+                 [
+                     T=int
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(24): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=float
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=float
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(24): при компиляции функции-члена "list<T>::iterator list<T>::iterator::operator +(int)" класса шаблон
+                 with
+                 [
+                     T=float
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(102): см. ссылку на создание экземпляров класса шаблон при компиляции "list<T>::iterator"
+                 with
+                 [
+                     T=float
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(163): см. ссылку на создание экземпляров функции шаблон при компиляции "void menu<float>(Queue<T> &)"
+                 with
+                 [
+                     T=float
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(24): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=string
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=string
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(24): при компиляции функции-члена "list<T>::iterator list<T>::iterator::operator +(int)" класса шаблон
+                 with
+                 [
+                     T=string
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(102): см. ссылку на создание экземпляров класса шаблон при компиляции "list<T>::iterator"
+                 with
+                 [
+                     T=string
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(164): см. ссылку на создание экземпляров функции шаблон при компиляции "void menu<string>(Queue<T> &)"
+                 with
+                 [
+                     T=string
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(71): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=int
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=int
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(101): см. ссылку на создание экземпляров функции шаблон при компиляции "void LtoQ<int>(Queue<T> &,list<T> &)"
+                 with
+                 [
+                     T=int
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\myalgorithm.h(6): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=int
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=int
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(105): см. ссылку на создание экземпляров функции шаблон при компиляции "itor find<S,list<T>::iterator>(itor,itor,t1)"
+                 with
+                 [
+                     itor=list<int>::iterator,
+                     S=int,
+                     T=int,
+                     t1=int
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\myalgorithm.h(14): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=int
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=int
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(111): см. ссылку на создание экземпляров функции шаблон при компиляции "itor min_element<list<T>::iterator>(itor,itor)"
+                 with
+                 [
+                     itor=list<int>::iterator,
+                     T=int
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\myalgorithm.h(22): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=int
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=int
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(121): см. ссылку на создание экземпляров функции шаблон при компиляции "void for_each<list<T>::iterator,print>(iter,iter,Predicate)"
+                 with
+                 [
+                     T=int,
+                     iter=list<int>::iterator,
+                     Predicate=print
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(71): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=float
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=float
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(101): см. ссылку на создание экземпляров функции шаблон при компиляции "void LtoQ<float>(Queue<T> &,list<T> &)"
+                 with
+                 [
+                     T=float
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\myalgorithm.h(6): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=float
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=float
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(105): см. ссылку на создание экземпляров функции шаблон при компиляции "itor find<S,list<T>::iterator>(itor,itor,t1)"
+                 with
+                 [
+                     itor=list<float>::iterator,
+                     S=float,
+                     T=float,
+                     t1=float
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\myalgorithm.h(14): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=float
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=float
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(111): см. ссылку на создание экземпляров функции шаблон при компиляции "itor min_element<list<T>::iterator>(itor,itor)"
+                 with
+                 [
+                     itor=list<float>::iterator,
+                     T=float
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\myalgorithm.h(22): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=float
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=float
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(121): см. ссылку на создание экземпляров функции шаблон при компиляции "void for_each<list<T>::iterator,print>(iter,iter,Predicate)"
+                 with
+                 [
+                     T=float,
+                     iter=list<float>::iterator,
+                     Predicate=print
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(71): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=string
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=string
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(101): см. ссылку на создание экземпляров функции шаблон при компиляции "void LtoQ<string>(Queue<T> &,list<T> &)"
+                 with
+                 [
+                     T=string
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\myalgorithm.h(6): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=string
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=string
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(105): см. ссылку на создание экземпляров функции шаблон при компиляции "itor find<S,list<T>::iterator>(itor,itor,t1)"
+                 with
+                 [
+                     itor=list<string>::iterator,
+                     S=string,
+                     T=string,
+                     t1=string
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\myalgorithm.h(14): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=string
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=string
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(111): см. ссылку на создание экземпляров функции шаблон при компиляции "itor min_element<list<T>::iterator>(itor,itor)"
+                 with
+                 [
+                     itor=list<string>::iterator,
+                     T=string
+                 ]
+     1>e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\myalgorithm.h(22): warning C4620: не найдена постфиксная форма "operator ++" для типа "list<T>::iterator"; используется префиксная форма
+                 with
+                 [
+                     T=string
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\mylist.h(17): см. объявление "list<T>::iterator"
+                 with
+                 [
+                     T=string
+                 ]
+                 e:\лабораторные работы\програмирование\лабораторная работа №4\lab4sem4_templates\lab4sem4_templates\code.cpp(121): см. ссылку на создание экземпляров функции шаблон при компиляции "void for_each<list<T>::iterator,print>(iter,iter,Predicate)"
+                 with
+                 [
+                     T=string,
+                     iter=list<string>::iterator,
+                     Predicate=print
+                 ]
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Лабораторные работы\Програмирование\Лабораторная работа №4\LAB4SEM4_Templates\Debug\LAB4SEM4_Templates.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\LAB4SEM4_Templates.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Лабораторные работы\Програмирование\Лабораторная работа №4\LAB4SEM4_Templates\Debug\LAB4SEM4_Templates.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Лабораторные работы\Програмирование\Лабораторная работа №4\LAB4SEM4_Templates\Debug\LAB4SEM4_Templates.lib" /MACHINE:X86 Debug\code.obj
+         LINK : не найден или не выполнена сборка E:\Лабораторные работы\Програмирование\Лабораторная работа №4\LAB4SEM4_Templates\Debug\LAB4SEM4_Templates.exe при последней инкрементной компоновке; выполняется полная компоновка
+         LAB4SEM4_Templates.vcxproj -> E:\Лабораторные работы\Програмирование\Лабораторная работа №4\LAB4SEM4_Templates\Debug\LAB4SEM4_Templates.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Лабораторные работы\Програмирование\Лабораторная работа №4\LAB4SEM4_Templates\Debug\LAB4SEM4_Templates.exe;#1" /manifest Debug\LAB4SEM4_Templates.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\LAB4SEM4_Templates.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\LAB4SEM4_Templates.lastbuildstate".
+     1>Построение проекта "E:\Лабораторные работы\Програмирование\Лабораторная работа №4\LAB4SEM4_Templates\LAB4SEM4_Templates\LAB4SEM4_Templates.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:03.73

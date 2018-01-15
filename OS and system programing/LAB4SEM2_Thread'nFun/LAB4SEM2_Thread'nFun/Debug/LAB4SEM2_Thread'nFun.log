@@ -1,0 +1,19 @@
+﻿Построение начато 13.05.2017 12:22:37.
+     1>Проект "E:\Лабораторные работы\Операционные системы и системное програмирование\2 СЕМЕСТР\LAB4SEM2_Thread'nFun\LAB4SEM2_Thread'nFun\LAB4SEM2_Thread'nFun.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\LAB4SEM2_Thread'nFun.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         LAB4SEM2_Thread'nFun.vcxproj -> E:\Лабораторные работы\Операционные системы и системное програмирование\2 СЕМЕСТР\LAB4SEM2_Thread'nFun\Debug\LAB4SEM2_Thread'nFun.exe
+       FinalizeBuildStatus:
+         Файл "Debug\LAB4SEM2_Thread'nFun.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\LAB4SEM2_Thread'nFun.lastbuildstate".
+     1>Построение проекта "E:\Лабораторные работы\Операционные системы и системное програмирование\2 СЕМЕСТР\LAB4SEM2_Thread'nFun\LAB4SEM2_Thread'nFun\LAB4SEM2_Thread'nFun.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.19

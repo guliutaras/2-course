@@ -1,0 +1,17 @@
+﻿Построение начато 06.06.2017 16:28:11.
+     1>Проект "E:\Лабораторные работы\Програмирование\Лабораторная работа №3\Гулый Тарас LAB3SEM4\LAB3SEM2_Polimorph\LAB3SEM2_Polimorph\LAB3SEM2_Polimorph.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\LAB3SEM2_Polimorph.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         LAB3SEM2_Polimorph.vcxproj -> E:\Лабораторные работы\Програмирование\Лабораторная работа №3\Гулый Тарас LAB3SEM4\LAB3SEM2_Polimorph\Debug\LAB3SEM2_Polimorph.exe
+       FinalizeBuildStatus:
+         Файл "Debug\LAB3SEM2_Polimorph.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\LAB3SEM2_Polimorph.lastbuildstate".
+     1>Построение проекта "E:\Лабораторные работы\Програмирование\Лабораторная работа №3\Гулый Тарас LAB3SEM4\LAB3SEM2_Polimorph\LAB3SEM2_Polimorph\LAB3SEM2_Polimorph.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.24
